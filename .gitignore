@@ -131,9 +131,9 @@ dmypy.json
 
 
 *.pdf
-week_1
+lectures
 project_1/data
 .DS_Store
 .idea/
 .vscode/
-
+*.png
